@@ -1,6 +1,7 @@
 FROM node:14-alpine
 WORKDIR /app
-EXPOSE 3001
-COPY . .
 ADD node_modules.tar.gz .
-CMD ["npm","start"]
+COPY . .
+CMD [ "npm", "start" ]
+EXPOSE 3001
+
