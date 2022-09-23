@@ -1,6 +1,6 @@
 # Projeto Docker Todo List 🐳
 
-A partir de um `front-end`, de um `back-end` e de `testes`, todos desenvolvidos pela _[Trybe](https://www.betrybe.com/)_, esse projeto consiste na utilização dos conhecimentos de conteinerização de aplicações e a criação de conexão entre os seus três segmentos.
+A partir de um `front-end`, de um `back-end` e de `testes`, todos desenvolvidos pela _[Trybe](https://www.betrybe.com/)_, esse projeto consiste na utilização dos conhecimentos de conteinerização de aplicações e na criação de conexão entre os seus três segmentos.
 
 * Projeto desenvolvido utilizando Docker
 
